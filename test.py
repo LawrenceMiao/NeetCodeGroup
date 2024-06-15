@@ -4,7 +4,7 @@ import requests, json
 
 WEBHOOK_URL = "https://discord.com/api/webhooks/1251399417270108244/KrA_3RLwEunPAS9NGr1GV4-dDkGCM1OPiCE9fPuBsw5_TOnVaU-ePvo84P7gMoiydWV8"
 
-ITERATIONS = 3
+ITERATIONS = 5
 
 deltas = []
 for i in range(ITERATIONS):
