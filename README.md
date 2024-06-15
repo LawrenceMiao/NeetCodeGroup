@@ -17,14 +17,14 @@ git checkout -b yourBranchName
 
 Pull changes from main:
 ```
-git pull orgin main
+git pull origin main
 ```
 Note: make sure to pull from main whenever a new problem is added.
 
 Implement the method in `solution.py` and push to origin:
 ```
 git add --all
-git commit -m "Your commit message
+git commit -m "Your commit message"
 git push origin yourBranchName
 ```
 
